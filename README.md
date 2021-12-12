@@ -1,6 +1,6 @@
-### Olá ✌
+### Hi there ✌
 
-Sou Pedro Bernini, estudante de tecnologia desde 2017, mestrando em tecnologia pela Universidade Estadual de Campinas (UNICAMP) e desenvolvedor. Amo desafios que envolvam muita matemática, design e programação.
+I'm a technology student since 2017, taking a master's degree in technology at the State University of Campinas (UNICAMP) and developer. I love challenges that involve a lot of math, design and programming.
 
 <div align="center">
   <a href="https://github.com/pedrobernini">
